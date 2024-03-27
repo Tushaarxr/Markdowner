@@ -7,6 +7,8 @@ This project is a simple web-based Markdown previewer that allows users to input
 
 ![png2](https://github.com/Tushaarxr/Markdowner/assets/129363731/c1ba2393-f2e5-45cb-bc37-372580c8111c)
 
+![png3](https://github.com/Tushaarxr/Markdowner/assets/129363731/5af6f29e-817a-4bd2-b89c-b7f9a20e29a8)
+
 ## Technologies
 - React.js (Frontend framework)
 - HTML
