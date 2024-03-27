@@ -1,0 +1,22 @@
+.body{
+    background-color:gainsboro ;
+
+}
+.markdown-preview {
+    border: 1px solid #ccc;
+    
+    height: 300px; 
+    overflow-y: auto;
+  }
+  .markdownInput{
+    max-height: 300px;
+  }
+  
+  .toolbars {
+    margin-top: 20px;
+  }
+  
+  .toolbars button {
+    margin-right: 5px;
+  }
+  
