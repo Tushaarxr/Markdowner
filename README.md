@@ -38,8 +38,8 @@ This project is a simple web-based Markdown previewer that allows users to input
    - Test the Markdown previewer to ensure that Markdown input is correctly parsed and rendered into HTML.
    - Verify that the preview updates in real-time as the user types or edits the Markdown text.
 
-8. **Optional Deployment:**
-   - Deploy your application for brownie points!
+8. **Deployment:**
+   - You can access the deployed Markdown previewer [here](https://markdowner-xi.vercel.app/).
 
 ## Installation and Setup
 To install and run the Markdown previewer locally, follow these steps:
@@ -58,4 +58,5 @@ To install and run the Markdown previewer locally, follow these steps:
 
 ## Contributors
 - Tushar Kumar
+
 
