@@ -3,6 +3,8 @@
 ## Description
 This project is a simple web-based Markdown previewer that allows users to input Markdown text and see the rendered output in real-time.
 
+![markdown](https://github.com/Tushaarxr/Markdowner/assets/129363731/ce8aecbd-7ee2-4d8f-831e-c3c2e89e3762)
+
 ## Technologies
 - React.js (Frontend framework)
 - HTML
